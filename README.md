@@ -56,3 +56,5 @@ In simple words:
 - By analyzing the data, we can see how long recessions last and how bad they get.
 
 Using Python, we can find patterns in economic data and understand recessions better!
+
+code : "https://colab.research.google.com/drive/1qaPgLzl21GyRVLE8wmfuUnGj1Mcuw7ja?authuser=0#scrollTo=x_3jiRSO0OWt"
